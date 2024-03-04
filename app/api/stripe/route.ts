@@ -45,7 +45,7 @@ export async function GET(){
                     name: "ProPulse MAX",
                     description: "Unlimited AI Generations"
                   },
-                  unit_amount: 187046,
+                  unit_amount: 2000,
                   recurring: {
                     interval: "month"
                   }
